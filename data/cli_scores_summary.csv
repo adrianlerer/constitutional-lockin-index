@@ -1,0 +1,11 @@
+country,cli_score,text_vagueness,judicial_activism,treaty_hierarchy,precedent_weight,amendment_difficulty,explicit_clause,reform_success_rate,key_domain,key_mechanism
+Argentina,0.87,0.92,0.95,0.88,0.82,0.68,No,0.00,Labor rights,Judicial activism + treaty hierarchy
+India,0.79,0.72,0.88,0.42,0.95,0.58,No (Basic Structure),0.12,Land reform,Judicial activism + precedent weight
+Chile,0.81,0.85,0.78,0.82,0.68,0.92,Proposed 2022 (rejected),0.00,Social rights,Text vagueness + amendment difficulty
+Mexico,0.58,0.62,0.55,0.68,0.52,0.48,No,0.41,Labor/energy,Treaty hierarchy
+Spain,0.52,0.58,0.62,0.65,0.32,0.48,No,0.47,Territorial autonomy,Judicial activism + treaty hierarchy
+Greece,0.49,0.52,0.58,0.62,0.32,0.38,Yes (Art. 110.1),0.53,Labor/pensions,Judicial activism + treaty hierarchy
+Germany,0.41,0.35,0.48,0.52,0.38,0.42,Yes (Art. 79.3),0.68,Social security,Judicial activism + treaty hierarchy
+Portugal,0.38,0.32,0.38,0.55,0.28,0.42,Yes (Art. 288),0.71,Labor,Treaty hierarchy
+Brazil,0.34,0.28,0.35,0.42,0.25,0.58,Yes (Art. 60§4),0.73,Labor/pensions,Amendment difficulty (but frequent success)
+New_Zealand,0.23,0.15,0.22,0.35,0.28,0.18,No,0.89,Electoral/welfare,All components low
