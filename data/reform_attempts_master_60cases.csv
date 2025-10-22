@@ -1,0 +1,61 @@
+reform_id,country,year,reform_name,category,cli_score,cli_tv,cli_ja,cli_th,cli_pw,cli_ad,outcome,success,public_support,poll_n,key_blocker,legal_challenges,estimated_impact,domain
+ARG001,Argentina,1994,Art. 14bis labor flexibilization,Labor,0.87,0.92,0.95,0.88,0.82,0.68,Failed,0,62,2400,CSJN Vizzoti doctrine,15,High revenue gain,Labor rights
+ARG002,Argentina,2000,Private pension system (AFJP elimination),Pensions,0.87,0.92,0.95,0.88,0.82,0.68,Failed,0,58,1800,CSJN acquired rights doctrine,8,Fiscal sustainability,Social security
+ARG003,Argentina,2008,AFJP nationalization (finally successful),Pensions,0.87,0.92,0.95,0.88,0.82,0.68,Succeeded,1,71,2200,Political consensus override,3,Major fiscal impact,Social security
+ARG004,Argentina,1995,Coparticipación federal reform,Fiscal,0.87,0.92,0.95,0.88,0.82,0.68,Failed,0,45,1500,Provincial veto,0,Federal revenue redistribution,Fiscal federalism
+ARG005,Argentina,2016,Impuesto a las Ganancias threshold,Tax,0.79,0.91,0.72,0.45,0.68,0.95,Failed,0,68,2100,Treaty hierarchy (ILO 117),12,Revenue loss,Tax policy
+ARG006,Argentina,1994,Republican form alteration attempt,Institutional,0.87,0.92,0.95,0.88,0.82,0.68,Failed,0,23,1200,Art. 1 entrenchment,0,Institutional stability,Republican form
+BRA001,Brazil,2017,Lei 13.467 labor reform,Labor,0.34,0.28,0.35,0.42,0.25,0.58,Succeeded,1,42,3500,STF narrow interpretation,2,Economic flexibility,Labor rights
+BRA002,Brazil,2019,Previdência reform (EC 103),Pensions,0.34,0.28,0.35,0.42,0.25,0.58,Succeeded,1,65,4200,Political support,5,Fiscal savings 800B BRL,Social security
+BRA003,Brazil,2016,Teto dos gastos (EC 95),Fiscal,0.34,0.28,0.35,0.42,0.25,0.58,Succeeded,1,38,2800,Executive push,8,20-year spending cap,Fiscal policy
+BRA004,Brazil,2015,Taxation of dividends proposal,Tax,0.34,0.28,0.35,0.42,0.25,0.58,Failed,0,51,2200,Business lobby,0,Progressive taxation,Tax policy
+BRA005,Brazil,2020,Emergency constitutional amendment,Institutional,0.34,0.28,0.35,0.42,0.25,0.58,Succeeded,1,72,3100,Pandemic urgency,1,COVID-19 response,Emergency powers
+BRA006,Brazil,2021,Administrative reform (PEC 32),Institutional,0.34,0.28,0.35,0.42,0.25,0.58,Failed,0,34,1900,Public sector resistance,0,Bureaucracy reduction,Administrative reform
+DEU001,Germany,2003,Hartz IV labor reform,Labor,0.41,0.38,0.42,0.35,0.48,0.52,Succeeded,1,47,5200,BVerfG narrow Ewigkeitsklausel,12,Unemployment reduction,Labor market
+DEU002,Germany,2007,Rente mit 67 pension reform,Pensions,0.41,0.38,0.42,0.35,0.48,0.52,Succeeded,1,55,4800,Coalition support,3,Pension sustainability,Social security
+DEU003,Germany,2009,Schuldenbremse (debt brake),Fiscal,0.41,0.38,0.42,0.35,0.48,0.52,Succeeded,1,62,3900,Constitutional amendment,0,Fiscal discipline,Fiscal policy
+DEU004,Germany,2013,Betreuungsgeld (childcare benefit cut),Social,0.41,0.38,0.42,0.35,0.48,0.52,Failed,0,41,2700,BVerfG federalism ruling,1,Federal-state conflict,Social policy
+DEU005,Germany,2020,Carbon pricing system,Environmental,0.41,0.38,0.42,0.35,0.48,0.52,Succeeded,1,68,4100,Climate urgency,2,Emissions reduction,Environmental policy
+DEU006,Germany,2021,Mietpreisbremse (rent control),Property,0.41,0.38,0.42,0.35,0.48,0.52,Partial,0.5,59,3300,BVerfG property rights limit,8,Housing affordability,Property rights
+IND001,India,1978,Kerala Land Reforms Act,Property,0.79,0.85,0.88,0.72,0.65,0.75,Failed,0,71,8500,SC Basic Structure Doctrine,25,Agrarian redistribution,Property rights
+IND002,India,1985,West Bengal land ceiling,Property,0.79,0.85,0.88,0.72,0.65,0.75,Failed,0,68,7200,Art. 31 property right entrenchment,18,Land reform,Property rights
+IND003,India,2002,Gujarat labor law liberalization,Labor,0.79,0.85,0.88,0.72,0.65,0.75,Failed,0,44,5800,ILO Convention 87 hierarchy,22,Investment climate,Labor rights
+IND004,India,2019,Citizenship Amendment Act,Institutional,0.79,0.85,0.88,0.72,0.65,0.75,Partial,0.5,35,9100,SC equality doctrine review,45,Citizenship criteria,Constitutional identity
+IND005,India,2020,Agricultural reforms (3 farm laws),Economic,0.79,0.85,0.88,0.72,0.65,0.75,Failed,0,52,12000,Farmers' protest + SC intervention,8,Market liberalization,Economic policy
+IND006,India,2021,Pension reforms (NPS expansion),Pensions,0.79,0.85,0.88,0.72,0.65,0.75,Partial,0.5,61,6700,State-level resistance,12,Fiscal sustainability,Social security
+ESP001,Spain,2010,Art. 135 fiscal stability reform,Fiscal,0.52,0.55,0.58,0.48,0.42,0.65,Succeeded,1,43,4200,EU pressure + amendment,2,Debt ceiling,Fiscal policy
+ESP002,Spain,2012,Labor reform (PP government),Labor,0.52,0.55,0.58,0.48,0.42,0.65,Succeeded,1,38,3800,TC moderate review,15,Flexibility increase,Labor market
+ESP003,Spain,2013,Pension indexation change,Pensions,0.52,0.55,0.58,0.48,0.42,0.65,Succeeded,1,34,2900,Austerity context,5,Pension sustainability,Social security
+ESP004,Spain,2017,Catalonia independence referendum,Institutional,0.52,0.55,0.58,0.48,0.42,0.65,Failed,0,48,5500,TC Art. 2 unity doctrine,0,Territorial integrity,Constitutional identity
+ESP005,Spain,2021,Euthanasia legalization,Social,0.52,0.55,0.58,0.48,0.42,0.65,Succeeded,1,67,4100,Progressive majority,3,Individual rights expansion,Social policy
+ESP006,Spain,2022,Abortion law reform,Social,0.52,0.55,0.58,0.48,0.42,0.65,Succeeded,1,72,4400,Legislative majority,1,Reproductive rights,Social policy
+CHL001,Chile,2019,Constitutional convention call,Institutional,0.81,0.88,0.82,0.75,0.68,0.78,Succeeded,1,78,8200,Social pressure,0,New constitution process,Constitutional reform
+CHL002,Chile,2022,New constitution rejection,Institutional,0.81,0.88,0.82,0.75,0.68,0.78,Failed,0,38,9500,Excessive lock-in perception,0,Constitutional replacement,Constitutional reform
+CHL003,Chile,2016,Labor reform (union rights),Labor,0.81,0.88,0.82,0.75,0.68,0.78,Partial,0.5,54,3700,TC ILO 87 treaty hierarchy,8,Union strengthening,Labor rights
+CHL004,Chile,2008,Pension reform (solidarity pillar),Pensions,0.81,0.88,0.82,0.75,0.68,0.78,Succeeded,1,69,4100,Broad consensus,2,Pension coverage expansion,Social security
+CHL005,Chile,2014,Tax reform (corporate rate increase),Tax,0.81,0.88,0.82,0.75,0.68,0.78,Partial,0.5,47,3200,Business resistance,12,Revenue increase,Tax policy
+CHL006,Chile,2017,Abortion decriminalization,Social,0.81,0.88,0.82,0.75,0.68,0.78,Succeeded,1,62,4600,TC narrow ruling,5,Reproductive rights,Social policy
+MEX001,Mexico,2019,Labor justice reform,Labor,0.58,0.62,0.65,0.55,0.48,0.58,Succeeded,1,58,5400,USMCA pressure,8,Independent labor tribunals,Labor rights
+MEX002,Mexico,2020,Pension reform (IMSS),Pensions,0.58,0.62,0.65,0.55,0.48,0.58,Succeeded,1,52,4200,Legislative support,3,Individual accounts expansion,Social security
+MEX003,Mexico,2013,Energy reform (oil sector opening),Economic,0.58,0.62,0.65,0.55,0.48,0.58,Succeeded,1,45,6800,Constitutional amendment,15,Private investment,Economic policy
+MEX004,Mexico,2021,Electricity sector counter-reform,Economic,0.58,0.62,0.65,0.55,0.48,0.58,Partial,0.5,41,4700,SCJN intervention,22,State control restoration,Economic policy
+MEX005,Mexico,2014,Fiscal responsibility law,Fiscal,0.58,0.62,0.65,0.55,0.48,0.58,Succeeded,1,48,3500,Fiscal discipline,2,Deficit control,Fiscal policy
+MEX006,Mexico,2019,National Guard creation,Institutional,0.58,0.62,0.65,0.55,0.48,0.58,Succeeded,1,71,7200,Security crisis,5,Militarized policing,Security policy
+PRT001,Portugal,2012,Labor Code flexibility reforms,Labor,0.38,0.32,0.42,0.38,0.28,0.55,Succeeded,1,36,2800,TC narrow Art. 288 interpretation,8,Austerity measure,Labor market
+PRT002,Portugal,2013,Public sector wage cuts,Fiscal,0.38,0.32,0.42,0.38,0.28,0.55,Partial,0.5,28,2200,TC proportionality review,12,Troika conditions,Fiscal policy
+PRT003,Portugal,2014,Pension cuts (TC rejection),Pensions,0.38,0.32,0.42,0.38,0.28,0.55,Failed,0,42,1900,TC equality doctrine,15,Pension sustainability,Social security
+PRT004,Portugal,2019,Labor law restoration,Labor,0.38,0.32,0.42,0.38,0.28,0.55,Succeeded,1,64,3100,Post-austerity shift,2,Worker protections,Labor rights
+PRT005,Portugal,2016,Bank resolution mechanism,Economic,0.38,0.32,0.42,0.38,0.28,0.55,Succeeded,1,45,2400,Financial stability,5,Banking regulation,Economic policy
+PRT006,Portugal,2021,Minimum wage increase,Labor,0.38,0.32,0.42,0.38,0.28,0.55,Succeeded,1,78,3800,Legislative support,0,Income policy,Labor policy
+GRC001,Greece,2010,Pension cuts (first memorandum),Pensions,0.49,0.52,0.48,0.45,0.42,0.62,Succeeded,1,24,4200,Troika conditionality,8,Fiscal consolidation,Social security
+GRC002,Greece,2012,Labor market deregulation,Labor,0.49,0.52,0.48,0.45,0.42,0.62,Succeeded,1,31,3800,Troika pressure,12,Collective bargaining reform,Labor market
+GRC003,Greece,2013,Public sector layoffs,Fiscal,0.49,0.52,0.48,0.45,0.42,0.62,Succeeded,1,19,2900,Memorandum compliance,18,Civil service reduction,Fiscal policy
+GRC004,Greece,2015,Referendum rejection of bailout,Institutional,0.49,0.52,0.48,0.45,0.42,0.62,Failed,0,61,5200,EU pressure override,0,Debt restructuring,Economic policy
+GRC005,Greece,2016,Pension re-reform,Pensions,0.49,0.52,0.48,0.45,0.42,0.62,Succeeded,1,28,3100,Creditor demands,8,Pension sustainability,Social security
+GRC006,Greece,2019,Labor law counter-reform,Labor,0.49,0.52,0.48,0.45,0.42,0.62,Partial,0.5,52,3600,ND government,5,Protections restoration,Labor rights
+NZL001,New Zealand,1991,Employment Contracts Act,Labor,0.23,0.18,0.22,0.15,0.28,0.35,Succeeded,1,43,2400,No entrenched rights,2,Union deregulation,Labor market
+NZL002,New Zealand,2001,Superannuation means testing proposal,Pensions,0.23,0.18,0.22,0.15,0.28,0.35,Failed,0,35,1800,Referendum rejection,0,Pension universality,Social security
+NZL003,New Zealand,2010,Partial asset sales,Economic,0.23,0.18,0.22,0.15,0.28,0.35,Succeeded,1,41,2100,Parliamentary sovereignty,0,State enterprise privatization,Economic policy
+NZL004,New Zealand,2017,Zero Carbon Act,Environmental,0.23,0.18,0.22,0.15,0.28,0.35,Succeeded,1,78,3200,Cross-party support,0,Climate targets,Environmental policy
+NZL005,New Zealand,2020,Cannabis referendum,Social,0.23,0.18,0.22,0.15,0.28,0.35,Failed,0,49,2800,Referendum rejection,0,Drug policy reform,Social policy
+NZL006,New Zealand,2021,Income tax threshold adjustment,Tax,0.23,0.18,0.22,0.15,0.28,0.35,Succeeded,1,65,2500,No constitutional barriers,0,Progressive taxation,Tax policy
