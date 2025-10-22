@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this dataset or research framework, please cite it as below."
+authors:
+  - family-names: "Lerer"
+    given-names: "Ignacio Adrian"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "adrian@lerer.com.ar"
+    affiliation: "Independent Researcher"
+title: "Constitutional Lock-in Index: Testing Bidart Campos' Theory of Sociological Petrification Through Cross-National Analysis"
+version: 1.0.0
+doi: 10.0000/zenodo.0000000
+date-released: 2025-10-21
+url: "https://github.com/adrianlerer/constitutional-lockin-index"
+repository-code: "https://github.com/adrianlerer/constitutional-lockin-index"
+keywords:
+  - constitutional law
+  - institutional lock-in
+  - comparative constitutional law
+  - judicial activism
+  - constitutional reform
+  - Argentina
+  - Bidart Campos
+  - cláusulas pétreas
+  - sociological petrification
+  - rent-seeking
+license: CC-BY-4.0
+abstract: |
+  This project empirically tests Argentine constitutional scholar Germán Bidart Campos' 
+  contested theory of "contenidos pétreos sociológicos" (sociologically petrified 
+  constitutional contents) through cross-national analysis of 60 constitutional reform 
+  attempts (1991-2025) across 10 countries. The Constitutional Lock-in Index (CLI) 
+  operationalizes Bidart's proto-theory of institutional lock-in, revealing that 
+  informal institutional mechanisms predict irreformability far better than explicit 
+  constitutional entrenchment clauses (R²=0.74, p<0.001 vs. β=-0.12, p=0.43). Key 
+  finding: Countries WITH explicit entrenchment (Brazil, Germany) show HIGHER reform 
+  success rates than countries WITHOUT (Argentina, India), falsifying traditional 
+  constitutional theory assumptions.
+references:
+  - type: article
+    authors:
+      - family-names: "Bidart Campos"
+        given-names: "Germán José"
+    title: "Manual de la Constitución Reformada"
+    year: 1996
+    publisher: "Ediar"
+    volume: 1
+    location: "Buenos Aires"
+  - type: blog
+    authors:
+      - family-names: "Gargarella"
+        given-names: "Roberto"
+    title: "Crítica a la teoría de contenidos pétreos de Bidart Campos"
+    year: 2007
+    url: "https://seminariogargarella.blogspot.com/"
+  - type: dataset
+    title: "CLI Master Dataset: 60 Constitutional Reform Attempts (1991-2025)"
+    year: 2025
+    url: "https://github.com/adrianlerer/constitutional-lockin-index/data/cli_master_dataset.csv"
